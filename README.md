@@ -3,7 +3,7 @@
 - [Prof. André T. Endo](https://github.com/andreendo)
 
 ## Alunos - 2021-02
-- [Novo Aluno](https://github.com/novo_aluno)
+- [Rodrigo Pedotti](https://github.com/r-pedotti)
 
 ## Semestres Passados
 

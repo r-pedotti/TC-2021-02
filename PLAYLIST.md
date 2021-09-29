@@ -13,6 +13,15 @@ A ideia é colocar links (videos no Youtube) para músicas "alternativas". Cinco
 
 # 2021/02
 
+## Rodrigo Pedotti
+- [Pantera - Uplift](https://www.youtube.com/watch?v=4OYHs4TGRQI)
+- [Lamb of God - Redneck](https://www.youtube.com/watch?v=oqdZpxkzNvc)
+- [Silverchair - Israel's Son](https://www.youtube.com/watch?v=vF33EJ85-1I&list=PLD0144AA123114353)
+- [Pantera - Floods](https://www.youtube.com/watch?v=td-v6vG2Xhs)
+- [Slipknot - Vermilion](https://www.youtube.com/watch?v=xKcbYUwmmlE)
+- [Rogério Skylab - Fátima Bernardes](https://www.youtube.com/watch?v=5Hr6MGU9QZA)
+
+
 # 2021/01 (encerrado)
 
 ## Eduardo Spagna
